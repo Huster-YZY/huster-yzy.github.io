@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a first-year PhD student at [The University of Hong Kong](https://www.hku.hk/), fortunately supervised by Prof. [Hengshuang Zhao](https://i.cs.hku.hk/~hszhao/).
-I received my Bachelor degree from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2024.
+I received my Bachelor degree from [Huazhong University of Science and Technology](https://english.hust.edu.cn/)(HUST) in 2024.
 My current research focuses on world model, embodied AI, and autonomous driving.
 
 
@@ -34,7 +34,7 @@ My current research focuses on world model, embodied AI, and autonomous driving.
 
 **Zhenya Yang**, Zhe Liu, Yuxiang Lu, Liping Hou, Chenxuan Miao, Siyi Peng, Bailan Feng, Xiang Bai, Hengshuang Zhao
 
-[Code]()/[Project Page]()
+[Code](https://github.com/Huster-YZY/GenieDrive)/[Project Page](https://huster-yzy.github.io/geniedrive_project_page/)
 </div>
 </div>
 
